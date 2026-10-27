@@ -10,10 +10,9 @@ Project Details
 Developer: Zuhaib Rashid
 Location: Srinagar, Jammu and Kashmir
 Contact Information
-Email: xuvaxuva006@gmail.com
-Phone: +91 6006414088
+Email: zuhaibrashid01@gmail.com
 LinkedIn: Zuhaib Rashid
-GitHub: Zuhaib Rashid's GitHub
+GitHub: Zuhaib Rash
 X (formerly Twitter): Zuhaib Rashid
 License
 This project is open-source and available under the MIT License.
